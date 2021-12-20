@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ventas>
+  <empleado>
+    <IDempleado>1</IDempleado>
+    <Nombre>Susana</Nombre>
+    <apellidoPat>Garcia</apellidoPat>
+    <apellidoMat>Santiago</apellidoMat>
+    <numTelefonico>529513254111</numTelefonico>
+  </empleado>
+  <empleado>
+    <IDempleado>2</IDempleado>
+    <Nombre>Jose</Nombre>
+    <apellidoPat>Morales</apellidoPat>
+    <apellidoMat>Cruz</apellidoMat>
+    <numTelefonico>529512820288</numTelefonico>
+  </empleado>
+  <empleado>
+    <IDempleado>3</IDempleado>
+    <Nombre>Perla</Nombre>
+    <apellidoPat>Cerqueda</apellidoPat>
+    <apellidoMat>Ruiz</apellidoMat>
+    <numTelefonico>529512141706</numTelefonico>
+  </empleado>
+  <empleado>
+    <IDempleado>5</IDempleado>
+    <Nombre>Claudia</Nombre>
+    <apellidoPat>Cerqueda</apellidoPat>
+    <apellidoMat>Ruiz</apellidoMat>
+    <numTelefonico>529513622685</numTelefonico>
+  </empleado>
+  <empleado>
+    <IDempleado>6</IDempleado>
+    <Nombre>Karla</Nombre>
+    <apellidoPat>Perez</apellidoPat>
+    <apellidoMat>Cruz</apellidoMat>
+    <numTelefonico>529511478967</numTelefonico>
+  </empleado>
+</ventas>
